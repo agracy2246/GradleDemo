@@ -28,3 +28,5 @@ application {
     // Define the main class for the application.
     mainClass = 'hello.App'
 }
+def message = "hey"
+println message

@@ -1,6 +1,10 @@
 .gradle
 /build/
 
+.DS_Store
+.vscode
+app/.DS_Store
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
